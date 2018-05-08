@@ -16,7 +16,7 @@ Alternatively, after installing the Carabinieri Elements you can simply click on
 
 ![Setup](/screenshots/karabinersetup.png)
 
-<a href="karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/vdmp/karabinersetup/master/arrows.json">Install settings</a>
+<a href= "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/vdmp/karabinersetup/master/arrows.json">Install settings</a>
 
 
 You can always make changes to the file in order to extend or change your setup.
