@@ -16,9 +16,17 @@ Alternatively, after installing the Carabinieri Elements you can simply click on
 
 ![Setup](/screenshots/karabinersetup.png)
 
-[Click here to install](karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/vdmp/karabinersetup/master/arrows.json)
 
-<a href= "karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/vdmp/karabinersetup/master/arrows.json">Install settings</a>
+### Update
+Ups, seems like Github blocking special links, so I cant have it here. So you can:
+
+
+1. Come to my [blog post](http://vadimpleshkov.me/notes/all/remapping-arrows/) and hit big button there
+
+2. Manualy copy arrows.json to folder `~/.config/karabiner/assets/complex_modifications` on your mac
+
+3. Paste this link to Safari: `karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/vdmp/karabinersetup/master/arrows.json`
+
 
 
 You can always make changes to the file in order to extend or change your setup.
