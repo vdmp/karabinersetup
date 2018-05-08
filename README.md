@@ -6,7 +6,7 @@ This is my setup file for the [Karabinier elements](https://pqrs.org/osx/karabin
 
 ![Layout](/screenshots/layout.png)
 
-Also in setup file there is an option that allows you to disable the original arrows in order to quickly get used to using the new ones. More details about how this helpful in my [blog post](vadimpleshkov.me/notes/XXXXX) here: vadimpleshkov.me/notes/XXXXX
+Also in setup file there is an option that allows you to disable the original arrows in order to quickly get used to using the new ones. More details about how this helpful in my [blog post](http://vadimpleshkov.me/notes/all/remapping-arrows/) here: 
 
 Karabinier elements allows you to configure complex modifications with setup json files, which you need to put at:
 
@@ -16,6 +16,6 @@ Alternatively, after installing the Carabinieri Elements you can simply click on
 
 ![Setup](/screenshots/karabinersetup.png)
 
-[Install settings](karabiner://karabiner/assets/complex_modifications/import?url=https://XXXXXXX.json)
+[Install settings](karabiner://karabiner/assets/complex_modifications/import?url=https://raw.githubusercontent.com/vdmp/karabinersetup/master/arrows.json)
 
 You can always make changes to the file in order to extend or change your setup.
